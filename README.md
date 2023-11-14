@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Triv2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Hello I am Jeff, also known as Triv, a full stack web developer specializing in Next.js</h1>
+
+[![Triv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Triv2)](https://github.com/Triv2/github-readme-stats)
+
+
+
 
 <!---
 Triv2/Triv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
