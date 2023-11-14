@@ -1,5 +1,5 @@
-<h1>Hello I am Jeff, also known as Triv, a full stack web developer specializing in Next.js</h1>
-
+<h1>Hello I am Jeff King</h1>
+<p>Also known as Triv, a full stack web developer specializing in Next.js</p>
 [![Triv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Triv2)](https://github.com/Triv2/github-readme-stats)
 
 
