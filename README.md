@@ -1,6 +1,42 @@
-<h1>Hello I am Jeff King</h1>
 
-<p>Also known as Triv, a full stack web developer specializing in Next.js</p>
+<div id="header" align="center">
+  <img src="https://github.com/Triv2/Triv2/assets/126743500/54aba754-599b-4148-bb88-f16360ebe557" width="1280" height="500"/>
+</div>
+
+# :wave: Hello! 
+
+<p>Also known as Triv, a full stack web developer specializing in Next.js. <br>
+I have been programming since 2017 using unreal engine C++, and switched to fulltime web development in 2023.</p>
+<p>Currently, I am doing a deep dive into next.js 14 and next-authv5 by creating a blog with community features.<br> 
+  If you have any questions feel free to ask!</p>
+
+
+## :file_folder: Current Projects
+
+
+### Paranormal Blog
+  >A blogging application with community support using next-auth.
+
+  **Features:** Multiple authors, \
+  **Technologies:**
+
+### Multi-Mentor LMS
+  >A mentoring application that supports multiple mentors and provides courses to students.
+
+  **Features**  Multiple mentors, students, subscriptions, courses, reviews, and appointments.\
+  **Technologies**: Next.js, MongoDB, Shadcn-UI, Prisma, Clerk, NextUI, Uploadthing 
+
+### Group-Up
+ >A social app for grouping and planning events with friends.
+
+  **Features**: Grouping, messaging, threads, and friends.\
+  **Technologies**: Next.js, MongoDB, Shadcn-UI, Prisma, Clerk, NextUI, Uploadthing
+
+## :chart_with_upwards_trend: Education
+
+ ### Classes and Courses
+   1. The 2023 Complete Web Development Bootcamp https://www.udemy.com/course/the-complete-web-development-bootcamp/
+   3. CodeWithAntonio Tutorial Projects: Ecommerce Headless CMS, Discord-Clone, AI-SaaS, Trello-Clone, Next-Auth https://www.codewithantonio.com/
 
 
 <!---
@@ -12,3 +48,4 @@
 Triv2/Triv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
