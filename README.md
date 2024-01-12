@@ -17,20 +17,20 @@ I have been programming since 2017 using unreal engine C++, and switched to full
 ### Paranormal Blog
   >A blogging application with community support using next-auth.
 
-  **Features:** Multiple authors, \
-  **Technologies:**
+  **Features:** Multiple authors, commenting, voting, gammification, creative front-end.\
+  **Technologies:** Next.js 14, NeonDB, Shadcn-UI, Prisma
 
 ### Multi-Mentor LMS
   >A mentoring application that supports multiple mentors and provides courses to students.
 
   **Features**  Multiple mentors, students, subscriptions, courses, reviews, and appointments.\
-  **Technologies**: Next.js, MongoDB, Shadcn-UI, Prisma, Clerk, NextUI, Uploadthing 
+  **Technologies**: Next.js 14, MongoDB, Shadcn-UI, Prisma, Clerk, NextUI, Uploadthing 
 
 ### Group-Up
  >A social app for grouping and planning events with friends.
 
   **Features**: Grouping, messaging, threads, and friends.\
-  **Technologies**: Next.js, MongoDB, Shadcn-UI, Prisma, Clerk, NextUI, Uploadthing
+  **Technologies**: Next.js 13, MongoDB, Shadcn-UI, Prisma, Clerk, NextUI, Uploadthing
 
 ## :chart_with_upwards_trend: Education
 
