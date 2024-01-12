@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/Triv2/Triv2/assets/126743500/54aba754-599b-4148-bb88-f16360ebe557" width="1280" height="450"/>
+  <img src="https://github.com/Triv2/Triv2/assets/126743500/54aba754-599b-4148-bb88-f16360ebe557" width="1180" height="400"/>
 </div>
 
 # :wave: Hello! 
@@ -12,7 +12,7 @@ I have been programming since 2017 using unreal engine C++, and switched to full
 
 
 ## :file_folder: Current Projects
-
+Repositories are set to private, please send a request to view them.
 
 ### Paranormal Blog
   >A blogging application with community support using next-auth.
