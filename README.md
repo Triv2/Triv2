@@ -15,9 +15,9 @@ I have been programming since 2017 using unreal engine C++, and switched to full
 Repositories are set to private, please send a request to view them.
 
 ### Paranormal Blog
+>A blogging application with community support using next-authv5.
 <img src="https://github.com/Triv2/Triv2/assets/126743500/9ab8ef2b-fdb8-4347-8b9c-a79c439a2b56" alt="projectimage" width="240" height="120" />
 
-  >A blogging application with community support using next-auth.
 
   **Features:** Multiple authors, commenting, voting, gammification, creative front-end.\
   **Technologies:** Next.js 14, NeonDB, Shadcn-UI, Prisma
@@ -29,9 +29,9 @@ Repositories are set to private, please send a request to view them.
   **Technologies**: Next.js 14, MongoDB, Shadcn-UI, Prisma, Clerk, NextUI, Uploadthing 
 
 ### Group-Up
+>An open-source social app for grouping and planning events with friends.
 <img src="https://github.com/Triv2/group-up/assets/126743500/e7485ebd-28ea-4954-9369-e08585e4095a" alt="projectimage" width="240" height="120" />
 
- >An open-source social app for grouping and planning events with friends.
 
   **Features**: Grouping, messaging, threads, and friends.\
   **Technologies**: Next.js 13, MongoDB, Shadcn-UI, Prisma, Clerk, NextUI, Uploadthing
