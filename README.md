@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/Triv2/Triv2/assets/126743500/54aba754-599b-4148-bb88-f16360ebe557" width="1180" height="400"/>
+  <img src="https://github.com/Triv2/Triv2/assets/126743500/54aba754-599b-4148-bb88-f16360ebe557" width="800" height="280"/>
 </div>
 
 # :wave: Hello! 
