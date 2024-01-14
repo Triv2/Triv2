@@ -3,7 +3,7 @@
   <img src="https://github.com/Triv2/Triv2/assets/126743500/0b882116-ccb4-421c-84da-5cf93bc7b1cb" width="640" height="320"/>
 </div>
 
-# :wave: Hello! 
+# :wave: Hello, I am Jeff! 
 
 
 <p>Also known as Triv, a full stack web developer specializing in Next.js. <br>
