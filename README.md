@@ -1,9 +1,10 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/Triv2/Triv2/assets/126743500/54aba754-599b-4148-bb88-f16360ebe557" width="800" height="400"/>
+  <img src="https://github.com/Triv2/Triv2/assets/126743500/0b882116-ccb4-421c-84da-5cf93bc7b1cb" width="1280" height="640"/>
 </div>
 
 # :wave: Hello! 
+
 
 <p>Also known as Triv, a full stack web developer specializing in Next.js. <br>
 I have been programming since 2017 using unreal engine C++, and switched to fulltime web development in 2023.</p>
