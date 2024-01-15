@@ -8,8 +8,9 @@
 
 <p>Also known as Triv, a full stack web developer specializing in Next.js. <br>
 I have been programming since 2017 using unreal engine C++, and switched to fulltime web development in 2023.</p>
-<p>Currently, I am doing a deep dive into next.js 14 and next-authv5 by creating a blog with community features.<br> 
-  If you have any questions feel free to ask!</p>
+
+<p>Currently, I am doing a deep dive into next.js 14 and next-authv5 by creating a blog with community features.</p>
+ <p>If you have any questions feel free to ask!</p>
 
 
 ## :file_folder: Recent Projects
@@ -24,9 +25,10 @@ https://paranormalblog.vercel.app/
   **Features:** Multiple authors, commenting, voting, gammification, creative front-end.\
   **Technologies:** Next.js 14, NeonDB, Shadcn-UI, Prisma
 
-### Multi-Mentor LMS
-  >A mentoring application that supports multiple mentors and provides courses to students.
-
+### 👨‍🏫 Mentor-Hub
+>A mentoring application that supports multiple mentors and provides courses to students.
+ <img src="https://github.com/Triv2/Triv2/assets/126743500/facc07fa-34cf-417b-92b1-cd0055d3738e" alt="projectimage" width="240" height="120" />
+ 
   **Features**  Multiple mentors, students, subscriptions, courses, reviews, and appointments.\
   **Technologies**: Next.js 14, MongoDB, Shadcn-UI, Prisma, Clerk, NextUI, Uploadthing 
 
