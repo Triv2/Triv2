@@ -14,7 +14,7 @@ I have been programming since 2017 using unreal engine C++, and switched to full
 
 
 ## :file_folder: Recent Projects
-Some repositories are set to private, please send a request to view them.
+*Some repositories are set to private, please send a request to view them.*
 
 ### :art: Paranormal Blog
 >A blogging application with community support using next-authv5.
@@ -22,14 +22,14 @@ Some repositories are set to private, please send a request to view them.
 
 https://paranormalblog.vercel.app/
 
-  **Features:** Multiple authors, commenting, voting, gammification, creative front-end.\
+  **Features:** Multiple authors, commenting, voting, gammification\
   **Technologies:** Next.js 14, NeonDB, Shadcn-UI, Prisma
 
 ### 👨‍🏫 Mentor-Hub
 >A mentoring application that supports multiple mentors and provides courses to students.
  <img src="https://github.com/Triv2/Triv2/assets/126743500/facc07fa-34cf-417b-92b1-cd0055d3738e" alt="projectimage" width="240" height="120" />
  
-  **Features**  Multiple mentors, students, subscriptions, courses, reviews, and appointments.\
+  **Features**  Multiple mentors, students, subscriptions, courses, reviews, and appointments\
   **Technologies**: Next.js 14, MongoDB, Shadcn-UI, Prisma, Clerk, NextUI, Uploadthing 
 
 ### 🧑‍💻 Group-Up
@@ -41,20 +41,26 @@ https://group-up-sand.vercel.app/
 
 https://github.com/Triv2/group-up
 
-  **Features**: Grouping, messaging, threads, and friends.\
+  **Features**: Grouping, messaging, threads, and friends\
   **Technologies**: Next.js 13, MongoDB, Shadcn-UI, Prisma, Clerk, NextUI, Uploadthing
 
 ## :chart_with_upwards_trend: Education
+*For employment opportunites, please send a request to view CV.*
 
  ### Classes and Courses
    1. The 2023 Complete Web Development Bootcamp: https://www.udemy.com/course/the-complete-web-development-bootcamp/
-   3. CodeWithAntonio Tutorial Projects: https://www.codewithantonio.com/
+   2. CodeWithAntonio Tutorial Projects: https://www.codewithantonio.com/
       - Ecommerce Headless CMS
            - Back-end: https://github.com/Triv2/admindash  
            - Front-end: https://github.com/Triv2/astore
       - DiscordClone https://github.com/Triv2/discordclone
       - TrelloClone https://github.com/Triv2/trelloclone
       - Next-Auth https://github.com/Triv2/nextauth-master
+
+### Institutions
+   1. Bachelor's of Science: Major-Biomedical Sciences, Minor-Psychology
+   2. United States Army: All-Source Intelligence Analyst
+
 
 
 
