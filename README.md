@@ -5,10 +5,9 @@
 
 # :wave: Hello, I am Jeff! 
 
+*Also known as Triv, a full stack web developer specializing in Next.js.*
 
-<p>Also known as Triv, a full stack web developer specializing in Next.js. <br>
-I have been programming since 2017 using unreal engine C++, and switched to fulltime web development in 2023.</p>
-
+<p>I have been programming since 2017 using unreal engine C++, and switched to fulltime web development in 2023.</p>
 <p>Currently, I am doing a deep dive into next.js 14 and next-authv5 by creating a blog with community features.</p>
  <p>If you have any questions feel free to ask!</p>
 
