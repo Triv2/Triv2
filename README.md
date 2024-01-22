@@ -8,8 +8,22 @@
 *Also known as Triv, a full stack web developer specializing in Next.js.*
 
 <p>I have been programming since 2017 using unreal engine C++, and switched to fulltime web development in 2023.</p>
-<p>Currently, I am doing a deep dive into next.js 14 and next-authv5 by creating a blog with community features.</p>
+<p>Currently, I am doing a deep dive into next.js 14 and next-authv5 by creating a blog with community features and an e-commerce platform</p>
  <p>If you have any questions feel free to ask!</p>
+
+## Build-in-Public Project
+### 🧑‍💻 Simple E-Commerce
+
+>An open-source source, build in public project. An e-commerce platform to support multiple vendors and customers.
+<img src="https://github.com/Triv2/Triv2/assets/126743500/224f17ee-f3fc-452d-8984-9e80b4ce73cc" alt="projectimage" width="240" height="120" />
+
+[Live View](https://simple-ecommerce-eosin.vercel.app/)
+
+[Repo](https://github.com/Triv2/ecom)
+
+
+  **Features**: CMS, Multiple vendors, MarketPlace, Store Designer\
+  **Technologies**: Next.js 14, SQL, Shadcn-UI, Prisma, Clerk, Uploadthing
 
  ## ✍️ Writing
 
