@@ -7,21 +7,25 @@
 
 *Also known as Triv, a full stack web developer specializing in Next.js.*
 
-<p>I have been programming since 2017 using unreal engine C++, and switched to fulltime web development in 2023.</p>
-<p>Currently, I am developing applications for two different businesses. An ecommerce shopify store and a form management system.</p>
+<p>I have been programming since 2017 using unreal engine C++, and switched to full stack software development in 2023.</p>
+<p>Currently, I am studying Cybersecurity. Recently passed the Google Cybersecurity Professional Certification. Will be taking the CompTIA Security+ SY0-701 next.</p>
 
 
 
 ## :chart_with_upwards_trend: Education
 *For employment opportunites, please send a request to view CV.*
 
+ ### Certifications
+   1. Google Cybersecurity Professional
+
  ### Classes and Courses
-   1. [The 2023 Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by *Dr. Angela Yu*
-   2. [CodeWithAntonio](https://www.codewithantonio.com/) Tutorial Projects by *Antonio Erdeljac*
+   1. [TryHackMe Courses](https://tryhackme.com/p/triviallore)
+   2. [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by *Dr. Angela Yu*
+   3. [CodeWithAntonio](https://www.codewithantonio.com/) Tutorial Projects by *Antonio Erdeljac*
 
 ### Institutions
    1. Bachelor's of Science: Major-Biomedical Sciences, Minor-Psychology
-   2. United States Army: All-Source Intelligence Analyst
+   2. United States Army: Intelligence Analyst
 
 
 
