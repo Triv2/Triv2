@@ -15,6 +15,8 @@
 ## :chart_with_upwards_trend: Education
 *For employment opportunites, please send a request to view CV.*
 
+<!---![tryhackme stats](https://raw.githubusercontent.com/triviallore/triviallore/master/assets/thm_propic.png)--->
+
  ### Certifications
    1. Google Cybersecurity Professional
 
