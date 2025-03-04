@@ -8,7 +8,11 @@
 *Also known as Triv, a full stack web developer specializing in Next.js.*
 
 <p>I have been programming since 2017 using unreal engine C++, and switched to full stack software development in 2023.</p>
-<p>Currently, I am studying Cybersecurity. Recently passed the Google Cybersecurity Professional Certification. Will be taking the CompTIA Security+ SY0-701 next.</p>
+
+The last project I developed is a web application to [assist veteran's families with ordering headstones](https://vets-weld.vercel.app/).
+ 
+<p> Currently, I am studying Cybersecurity. Recently passed the Google Cybersecurity Professional Certification. </p>
+<p>Will be taking the CompTIA Security+ SY0-701 next.</p>
 
 
 
