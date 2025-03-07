@@ -14,12 +14,11 @@ The last project I developed is a web application to [assist veteran's families 
 <p> Currently, I am studying Cybersecurity. Recently passed the Google Cybersecurity Professional Certification. </p>
 <p>Will be taking the CompTIA Security+ SY0-701 next.</p>
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/triviallore.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3019780)
+<!---[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/triviallore.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3019780)--->
 
 ## :chart_with_upwards_trend: Education
 *For employment opportunites, please send a request to view CV.*
 
-<!---![tryhackme stats](https://raw.githubusercontent.com/triviallore/triviallore/master/assets/thm_propic.png)--->
 
  ### Certifications
    1. Google Cybersecurity Professional
