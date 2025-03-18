@@ -21,17 +21,18 @@ The last project I developed is a web application to [assist veteran's families 
 
 
  ### Certifications
-   1. Google Cybersecurity Professional
-     
+   - Google Cybersecurity Professional
+
+ ### Learning Labs
+   - [TryHackMe](https://tryhackme.com/p/triviallore)
 
  ### Classes and Courses
-   1. [TryHackMe Courses](https://tryhackme.com/p/triviallore)
-   2. [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by *Dr. Angela Yu*
-   3. [CodeWithAntonio](https://www.codewithantonio.com/) Tutorial Projects by *Antonio Erdeljac*
+   - [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by *Dr. Angela Yu*
+   - [CodeWithAntonio](https://www.codewithantonio.com/) Tutorial Projects by *Antonio Erdeljac*
 
 ### Institutions
-   1. Bachelor's of Science: Major-Biomedical Sciences, Minor-Psychology
-   2. United States Army: Intelligence Analyst
+   - Bachelor's of Science: Major-Biomedical Sciences, Minor-Psychology
+   - United States Army: Intelligence Analyst
 
 
 
