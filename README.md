@@ -15,6 +15,9 @@ The last project I developed is a web application to [assist veteran's families 
 <p>Will be taking the CompTIA Security+ SY0-701 next.</p>
 
 <!---[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/triviallore.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3019780)--->
+## :computer: Cybersecurity Tools
+  - [Windows Powershell Script Designer](https://github.com/Triv2/powershell-script-ui)
+  - [Linux Command Designer](https://github.com/Triv2/linux-command-gui)
 
 ## :chart_with_upwards_trend: Education
 *For employment opportunites, please send a request to view CV.*
