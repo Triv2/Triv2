@@ -16,7 +16,8 @@ The last project I developed is a web application to [assist veteran's families 
 
 <!---[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/triviallore.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3019780)--->
 ## :computer: Cybersecurity Tools
-* Applications for learning the various cybersecurity tools command structures and options
+*Applications for learning the various cybersecurity tools command structures and options*
+  
   - [Windows Powershell Script Designer](https://powershell-script-ui.vercel.app)
     - [Source Code](https://github.com/Triv2/powershell-script-ui)
   - [Linux Command Designer](https://linux-cli-gui.vercel.app)
