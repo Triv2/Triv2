@@ -17,6 +17,8 @@ The last project I developed is a web application to [assist veteran's families 
 <!---[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/triviallore.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3019780)--->
 ## :computer: Cybersecurity Tools
 *Applications for learning the various cybersecurity tools command structures and options*
+  - [Security Engineer Learning Guide](https://security-engineer-one.vercel.app/)
+    - [Source Code](https://github.com/Triv2/security-engineer)
   - [Security Systems Hardening Tool](https://get-hard-security.vercel.app)
     - [Source Code](https://github.com/Triv2/security-harden)
   - [Pentesting Reference Tool](https://pentest-tool-kappa.vercel.app)
