@@ -9,10 +9,9 @@
 
 <p>I have been programming since 2017 using unreal engine C++, and switched to full stack software development in 2023.</p>
 
-The last project I developed is a web application to [assist veteran's families with ordering headstones](https://vets-weld.vercel.app/) and before that a [next.js shopify tea store](https://tea-shop-mu.vercel.app/).
+A few projects I developed are a web application to [assist veteran's families with ordering headstones](https://vets-weld.vercel.app/) and before that a [next.js shopify tea store](https://tea-shop-mu.vercel.app/).
  
-<p> Currently, I am studying Cybersecurity. Recently passed the Google Cybersecurity Professional Certification. </p>
-<p>Will be taking the CompTIA Security+ SY0-701 next.</p>
+<p> I was studying cybersecurity, but then I got caught up to modern and next-gen security tools. Now I am working with AI. Take what you will from that. </p>
 
 <!---[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/triviallore.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3019780)--->
 ## :computer: Cybersecurity Tools
